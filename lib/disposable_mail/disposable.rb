@@ -2,7 +2,8 @@ module DisposableMail
   class << self
     # Returns a list with the disposable mail domains
     def list
-      [
+      [ 
+        "protonmail.com",
         "0-00.usa.cc",
         "0-mail.com",
         "001.igg.biz",
