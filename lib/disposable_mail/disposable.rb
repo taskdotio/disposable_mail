@@ -2957,7 +2957,9 @@ module DisposableMail
         "zxcvbnm.com",
         "zymuying.com",
         "zzi.us",
-        "zzz.com"
+        "zzz.com",
+        "mail.ru",
+        "yandex.ru"
       ]
     end
 
